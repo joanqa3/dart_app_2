@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Obtener y generar los modelos correspondientes a partir del enlace especificado + inicio API de https://rickandmortyapi.com/api/character
+
+![image info](./assets/images/cover.jpg)
+
